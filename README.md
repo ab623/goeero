@@ -62,6 +62,6 @@ For example to get the list of device display names and associated IP's in host 
 This will produce a file such as 
 
 ```
-Johns iPhone 192.168.1.100
-Davids Laptop 192.168.1.120
+192.168.1.100 Johns iPhone
+192.168.1.120 Davids Laptop
 ```
